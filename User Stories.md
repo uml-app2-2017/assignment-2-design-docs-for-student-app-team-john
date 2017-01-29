@@ -5,7 +5,7 @@
 **Student Developers** need **testers** for an android application that they are
 creating. They **post fliers** on bulletin boards and on an online bulletin
 board asking **students** that want to **change** their life’s and become more
-****well rounded** people to test their application. The first week they receive
+**well rounded** people to test their application. The first week they receive
 10 students requesting to test their application. They meet with the students
 to watch over how they set up of the scheduling going taking into account any
 **questions and concerns** that they users may have. After they have picked a
