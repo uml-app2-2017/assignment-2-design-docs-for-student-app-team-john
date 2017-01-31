@@ -11,4 +11,6 @@ sub-schedules to help track goals, including:
  - Recommended workout regimens
 - Free time
  - Prioritize by label
+ 
+For more information, view the [wiki](https://github.com/uml-app2-2017/assignment-2-design-docs-for-student-app-team-john/wiki).
 
